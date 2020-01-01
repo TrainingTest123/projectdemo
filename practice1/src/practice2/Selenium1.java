@@ -3,7 +3,7 @@ package practice2;
 public class Selenium1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// frtTODO Auto-generated method stub
 
 	}
 
