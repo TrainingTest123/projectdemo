@@ -10,7 +10,7 @@ public class Project1 {
 	WebDriver driver;
   @Test
   public void f() {
-	  System.out.println("This is maven test project");
+	  System.out.println("This is maven test method");
   }
   @BeforeMethod
   public void beforeMethod() {
