@@ -1,0 +1,8 @@
+<suite name="Test Suite">
+<test name="Test Scripts">
+<classes>
+<class name="TrainingQA.DemoMavenEclipseProject.Project1"/>
+</classes>
+</test>
+</suite>
+
